@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Tracker
+//  Tracker App 
 //
 //  Created by Rosie  on 1/2/16.
 //  Copyright © 2016 Rosie . All rights reserved.
